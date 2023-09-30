@@ -1,4 +1,4 @@
-# ios101-project2-wordle-starter
+
 # ios101-project2-wordle-starter
 # Project 2 - *Wordle +*
 
@@ -6,7 +6,7 @@ Submitted by: **Camila Castaneda**
 
 **Wordle +** takes wordle and allows you to make it more challenging[TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
