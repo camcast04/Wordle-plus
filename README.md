@@ -13,7 +13,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [x] User can change the number of letters per row (the length of the goal word)
-- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can change the number of rows on the board (how many guesses are allowed)
 - [x] User can select a new themed set to pull the goal word from
 - [x] User can select "alien wordle", causing the goal word to change after each guess
 
@@ -28,12 +28,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://i.imgur.com/DAl48ga.gif
+<img src='https://i.imgur.com/DAl48ga.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-Biggest challenge was undertanding how to make the reset button, overall it was a straighforward project. 
+The biggest challenge was understanding how to make the reset button, overall it was a straightforward project. 
 
 ## License
 
